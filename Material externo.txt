@@ -1,0 +1,8 @@
+Para sacar iconos de yt, google, etc:
+http://app.fontastic.me/#publish/font/wJE2HF7FkeMRc2pXybZwHJ
+Fuente: https://fonts.google.com/
+Titulo: Playfair Display
+Parrafos: Quicksand
+Cursiva: Dancing Script
+Perrona: Cormorant Garamond
+Otra: Open Sans Condensed

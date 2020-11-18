@@ -1,0 +1,6 @@
+body {background-color:red;}
+h1 {font-family:arial;color:yellow;margin-left:500px;font-size:42px;}
+h2 {font-family:arial;color:black;font-size:25px;}
+h3 {font-family:arial;color:cyan;font-size:25px;}
+p {font-family:arial;color:white;font-size:20px;}
+iframe {margin-left:50px}
